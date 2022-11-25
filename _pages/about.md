@@ -17,7 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student at Georgia Institute of Technology, School of Aerospace Engineering (expected graduation: May 2023), currently intending to enter a Ph.D. program in Fall 2023. 
+I am an undergraduate student at <b>Georgia Institute of Technology, School of Aerospace Engineering</b> (expected graduation: May 2023), currently intending to enter a Ph.D. program in Fall 2023. 
 
-My research interests include space mission design (astrodynamics & space logistics), sequential decision-making (optimal control, reinforcement learning, etc.), and optimization under uncertainty. 
+My research interests include:
+
+- Space mission design (astrodynamics & space logistics)
+- Sequential decision-making (optimal control, reinforcement learning, etc.)
+- Optimization under uncertainty.
+
+I am currently working at [Georgia Tech Space System Optimization Group](https://ssog.ae.gatech.edu/)(advisor: Dr. Koki Ho), and [Georgia Tech Dynamics and Control Systems Laboratory](https://dcsl.gatech.edu/)(advisor: Dr. Panagiotis Tsiotras). I am a former visiting student researcher at NASA Jet Propulsion Laboratory (Section 312A, Project Systems Engineering & Formulation) and Tokyo Metropolitan University.
+
 
