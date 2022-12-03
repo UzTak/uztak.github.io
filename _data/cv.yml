@@ -23,7 +23,7 @@
   contents:
     - title: Research Assistant 
       institution: Georiga Tech Space Systems Optimization Group (SSOG)
-      year: 2020 - 
+      year: 2020 -
       description:
         - Proposed the architecture for stochastic spaceflight campaign planning based on hierarchical reinforcement learning (HRL) and mixed‑integer linear programming (MILP).
         - Solved a concurrent optimization problem of space transportation planning and spacecraft design (mixed-integer nonlinear programming, MINLP), by decoupling the problem into mixed-integer quadratic programming (MIQP) and nonlinear programming (NLP) through augmented Lagrangian coordination (ALC).
@@ -46,8 +46,7 @@
       institution: Tokyo Metropolitan University, Kanazaki Lab. 
       year: 2021 
       description:
-        - Developed a robust constrained multi-objective trajectory optimization algorithm through integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE).
-
+        - Developed a robust constrained multi-objective trajectory optimization algorithm through the integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE).
 
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
