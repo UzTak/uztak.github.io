@@ -35,8 +35,6 @@
       institution: Georgia Tech Dynamics and Control Systems Laboratory (DCSL)
       year: 2021 -
       description:
-        - "Applied normalizing flow (generative model) to develop a new approach to covariance steering and probability moment steering problems." 
-        - "Investigating the optimal control in the higher-order probability moment-state space." 
 
 - title: Honors and Awards
   type: time_table
