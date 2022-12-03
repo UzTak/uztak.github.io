@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Selected to Breakwell Award at the 33rd AAS/AIAA Space Flight Mechanics Conference! 
-date: 2022-12-03 16:11:00-0400
+title: Received Breakwell Award at the 33rd AAS/AIAA Space Flight Mechanics Conference! 
+date: 2022-12-02 16:11:00-0400
 inline: false
 ---
 
