@@ -43,7 +43,15 @@
       institution: Visiting Researcher
       year: 2022
       description:
-        - "Developed an algorithm for the multi-objective optimization of the multi-moon tour trajectory in the Saturnian system"
+        - "Developed an algorithm for the multi-objective optimization of the multi-moon tour trajectory in the Saturnian system."
+
+    - title: Tokyo Metropolitan University, Kanazaki Lab. 
+      institution: Visiting Researcher
+      year: 2022
+      description:
+        - "Developed a robust constrained multi-objective trajectory optimization algorithm through the integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE)."
+
+
 
 - title: Honors and Awards
   type: time_table
