@@ -15,8 +15,8 @@
       institution: Georgia Institute of Technology 
       year: 2019 - 2023 
       description:
-        - Major Aerospace Engineering 
-        - GPA 3.96/4.0
+        - Major":" Aerospace Engineering 
+        - GPA":" 3.96/4.0
 
 - title: Experience
   type: time_table
