@@ -23,7 +23,7 @@
   contents:
     - title: Research Assistant 
       institution: Georiga Tech Space Systems Optimization Group (SSOG)
-      year: 2020 - Present
+      year: 2020 - 
       description:
         - (i) Proposed the architecture for a stochastic spaceflight campaign planning based on hierarchical reinforcement learning (HRL) and mixed‑integer linear programming (MILP).
         - (ii) Solved a concurrent optimization problem of space transportation planning and spacecraft design (mixed-integer nonlinear programming, MINLP), by decoupling the problem into mixed-integer quadratic programming (MIQP) and nonlinear programming (NLP) through augmented Lagrangian coordination (ALC).
