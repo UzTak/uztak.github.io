@@ -47,7 +47,7 @@
 
     - title: Tokyo Metropolitan University, Kanazaki Lab. 
       institution: Visiting Researcher
-      year: 2021.05 - 08
+      year: 2021 Summer
       description:
         - "Developed a robust constrained multi-objective trajectory optimization algorithm through the integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE)."
 
