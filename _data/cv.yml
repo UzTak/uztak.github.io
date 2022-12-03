@@ -27,7 +27,6 @@
       description:
         - Proposed the architecture for stochastic spaceflight campaign planning based on hierarchical reinforcement learning (HRL) and mixed‑integer linear programming (MILP).
         - Solved a concurrent optimization problem of space transportation planning and spacecraft design (mixed-integer nonlinear programming, MINLP), by decoupling the problem into mixed-integer quadratic programming (MIQP) and nonlinear programming (NLP) through augmented Lagrangian coordination (ALC).
-	    - Investigating the Earth-Moon low-energy transfer using bicircular restricted four-body problem (BCR4BP).
 
     
 
