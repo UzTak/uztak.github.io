@@ -7,6 +7,9 @@
       value: June 20th, 2000
     - name: Languages
       value: English, Japanese (bilingual)
+    - name: Nationality
+      value: Japan
+
 
 - title: Education
   type: time_table
