@@ -43,7 +43,7 @@
       institution: "NASA Jet Propulsion Laboratory, Section 312A (Project Systems Engineering & Formulation)"
       year: 2022
 	description:
-	    - "Developed an algorithm for the multi-objective optimization of the multi-moon tour trajectory in the Saturnian system. "
+	  - "Developed an algorithm for the multi-objective optimization of the multi-moon tour trajectory in the Saturnian system."
 
     - title: Visiting Researcher
       institution: Tokyo Metropolitan University, Kanazaki Lab. 
@@ -55,7 +55,7 @@
       institution: Georgia Tech Aerospace Systems Design Laboratory (ASDL)
       year: 2020
 	description:
-	    - "Developed a SysML model for the preliminary design of a lunar lander. "
+	    - "Developed a SysML model for the preliminary design of a lunar lander."
 
     
 
