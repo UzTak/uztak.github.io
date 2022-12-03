@@ -16,7 +16,7 @@ Isaji, M., <b>Takubo, Y.</b>, and Ho, K., <a href="https://arc.aiaa.org/doi/abs/
 
 <h2>Conference Papers</h2>
 
-<b>Takubo, Y.</b>, Landau, D., and Brian, A. “Automated Tour Design in the Saturnian System,” 33rd AAS/AIAA Space Flight Mechanics Meeting, Austin, TX, 2023 (Winning paper of <i><b>Breakwell Student Paper Award</b></i>, available on <a href="https://arxiv.org/abs/2210.14996">arXiv<a/>).
+<b>Takubo, Y.</b>, Landau, D., and Brian, A. “Automated Tour Design in the Saturnian System,” 33rd AAS/AIAA Space Flight Mechanics Meeting, Austin, TX, 2023 (Winning paper of ***Breakwell Student Paper Award***, available on <a href="https://arxiv.org/abs/2210.14996">arXiv<a/>).
 
 <b>Takubo, Y.</b>, and Kanazaki, M., <a href="https://ieeexplore.ieee.org/document/9870365">“Robust Constrained Multi‑objective Evolutionary Algorithm based on Polynomial Chaos Expansion for Trajectory Optimization,”</a> IEEE Congress on Evolutionary Computation, IEEE WCCI 2022, Padua, Italy, Jul. 2022
 
