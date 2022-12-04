@@ -21,6 +21,13 @@
         - "Major: Aerospace Engineering" 
         - "GPA: 3.96/4.0"
 
+- title: Scholarship
+  type: nested_list
+  contents:
+    - title: Ezoe Memorial Recruit Foundation, Academic Division (2020 - Present)
+      items: 
+        -  "Full-ride tuition + 2.4M JPY (living expense) / year, up to 10M JPY (approx. 70,000 USD) / year  "
+
 - title: Experience
   type: time_table
   contents:
@@ -51,21 +58,18 @@
       description:
         - "Developed a robust constrained multi-objective trajectory optimization algorithm through the integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE)."
 
-- title: Scholarship
-  type: nested_list
-  contents:
-    - title: Ezoe Memorial Recruit Foundation, Academic Division (2020 - Present)
-      items: 
-        -  "Full-ride tuition + 2.4M JPY (living expense) / year, up to 10M JPY (approx. 70,000 USD) / year  "
-
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023 -
+      items: 
+        - Winter 2023 Breakwell Student Paper Award (33rd AAS/AIAA Space Flight Mechanics Conference) 
     - year: 2022 -
       items: 
-        - "[Nobel Prize in Physics](https://www.recruit-foundation.org/en/)"
-        - Matteucci Medal
+        - Georgia Tech President's Undergraduate Research Award (PURA), Travel Award 
+        - Georgia Tech President's Undergraduate Research Award (PURA), Travel Award 
+
     - year: 2029
       items: 
         - Max Planck Medal
