@@ -47,18 +47,24 @@
 
     - title: Tokyo Metropolitan University, Kanazaki Lab. 
       institution: Visiting Researcher
-      year: 2021 Summer
+      year: 2021.05-08
       description:
         - "Developed a robust constrained multi-objective trajectory optimization algorithm through the integration of evolutionary algorithm (EA) and non-intrusive polynomial chaos expansion (PCE)."
 
+- title: Scholarship
+  type: nested_list
+  contents:
+    - title: "[Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/en/)" (2020 - Present)
+      items: 
+        - "Full-ride tuition + 2.4M JPY (living expense) / year, up to 10M JPY (approx. 70,000 USD) / year  "
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022 -
       items: 
-        - Nobel Prize in Physics 
+        - "[Nobel Prize in Physics](https://www.recruit-foundation.org/en/)"
         - Matteucci Medal
     - year: 2029
       items: 
