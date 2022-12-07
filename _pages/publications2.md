@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-Please also refere to my [Google Scholar](https://scholar.google.com/citations?user=OyJJXpsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yuji-Takubo).
+Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=OyJJXpsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yuji-Takubo).
 
 <h2>Journal Articles</h2>
 
