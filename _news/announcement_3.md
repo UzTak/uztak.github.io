@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selected for 2022 Best Paper Award, The Japanese Society for Evolutionary Computation,(2022年日本進化計算学会研究会最優秀賞)
+title: Selected for 2022 Best Paper Award, The Japanese Society for Evolutionary Computation,(2022年日本進化計算学会研究会最優秀論文賞)
 date: 2022-12-06 16:11:00-0400
 inline: false
 ---
