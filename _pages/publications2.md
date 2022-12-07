@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+Please also refere to my [Google Scholar](https://scholar.google.com/citations?user=OyJJXpsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yuji-Takubo).
+
 <h2>Journal Articles</h2>
 
 Isaji, M., <b>Takubo, Y.</b>, and Ho, K., <a href="https://arc.aiaa.org/doi/abs/10.2514/1.A35284?journalCode=jsr">“Multidisciplinary Design Optimization Approach to Integrated Space Mission Planning and Spacecraft Design,”<a/> Journal of Spacecraft and Rockets, 59(5), pp. 1660-1670, 2022. 
