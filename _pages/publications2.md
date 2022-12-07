@@ -20,7 +20,7 @@ Isaji, M., <b>Takubo, Y.</b>, and Ho, K., <a href="https://arc.aiaa.org/doi/abs/
 
 <b>Takubo, Y.</b>, and Kanazaki, M., <a href="https://ieeexplore.ieee.org/document/9870365">“Robust Constrained Multi‑objective Evolutionary Algorithm based on Polynomial Chaos Expansion for Trajectory Optimization,”</a> IEEE Congress on Evolutionary Computation, IEEE WCCI 2022, Padua, Italy, Jul. 2022
 
-<b>Takubo, Y.</b>, and Kanazaki, M., "Robust Multi‑objective Optimization of the Control Input of Trajectory Planning,” The 20th Symposium of the Japanese Society for Evolutionary Computation, Online, Sep. 2021. (Japanese: "経路設計のための制御入力の多目的ロバスト最適化," 第20回日本進化計算学会研究会) ***2022 Best Paper Award***.
+<b>Takubo, Y.</b>, and Kanazaki, M., "[Robust Multi‑objective Optimization of the Control Input of Trajectory Planning](../assets/pdf/Takubo2021PCE_EA.pdf),” The 20th Symposium of the Japanese Society for Evolutionary Computation, Online, Sep. 2021. (Japanese: "経路設計のための制御入力の多目的ロバスト最適化," 第20回日本進化計算学会研究会) ***2022 Best Paper Award***.
 
 Isaji, M., <b>Takubo, Y.</b>, and Ho, K., <a href="https://arc.aiaa.org/doi/10.2514/6.2021-4069">"Multidisciplinary Design Optimization Approach to Integrated Space Mission Planning and Spacecraft Design,”<a/> AIAA ASCEND, Las Vegas, NV, Oct. 2021.
 
