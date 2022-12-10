@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am an undergraduate student at <b>Georgia Institute of Technology, School of Aerospace Engineering</b> (expected graduation: May 2023), currently intending to enter a Ph.D. program in Fall 2023. 
 
+I am also a recipient of [Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/) since 2020, which will be continued until the academic year 2027-2028. 
+
 My research interests include:
 
 - Space mission design (astrodynamics & space logistics)
