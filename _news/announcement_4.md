@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholarship update: Ezoe Memorial Recruit Foundation, academic division. 
+title: (Re-)selected for an Ezoe Memorial Recruit Foundation scholar, academic division. 
 date: 2022-12-15 16:11:00-0400
 inline: false
 ---
