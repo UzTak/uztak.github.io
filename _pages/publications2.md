@@ -12,7 +12,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 <h2>Journal Articles</h2>
 
 
-Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., <a href="https://arc.aiaa.org/doi/abs/10.2514/1.A35284?journalCode=jsr">"The megaregion–forms, functions, and potential? A literature review and proposal for advancing research,"<a/> International Journal of Urban Sciences, 2023.
+Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., <a href="https://doi.org/10.1080/12265934.2023.2189156">"The megaregion–forms, functions, and potential? A literature review and proposal for advancing research,"<a/> International Journal of Urban Sciences, 2023.
 
 Isaji, M., <b>Takubo, Y.</b>, and Ho, K., <a href="https://arc.aiaa.org/doi/abs/10.2514/1.A35284?journalCode=jsr">“Multidisciplinary Design Optimization Approach to Integrated Space Mission Planning and Spacecraft Design,”<a/> Journal of Spacecraft and Rockets, 59(5), pp. 1660-1670, 2022. 
 
