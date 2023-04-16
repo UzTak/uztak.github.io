@@ -9,8 +9,12 @@ nav_order: 3
 
 Please also refer to my [Google Scholar](https://scholar.google.com/citations?user=OyJJXpsAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Yuji-Takubo).
 
-<h2>Journal Articles</h2>
+<h2>Papers in Preparation</h2>
 
+<b>Takubo, Y.</b>, and Kanazaki, M., "Robust Constrained Multi-objective Optimal Control based on Evolutionary Algorithm and Polynomial Chaos with Application to Supersonic Transport Landing," Aerospace Science and Technology (Under Review). 
+
+
+<h2>Journal Articles</h2>
 
 Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., <a href="https://doi.org/10.1080/12265934.2023.2189156">"The megaregion–forms, functions, and potential? A literature review and proposal for advancing research,"<a/> International Journal of Urban Sciences, 2023.
 
