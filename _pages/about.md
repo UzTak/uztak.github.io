@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student at <b>Georgia Institute of Technology, School of Aerospace Engineering</b> and an incoming Ph.D. student at Stanford University, Department of Aeronautics and Astronautics. 
+I am an undergraduate student at <b>Georgia Institute of Technology, School of Aerospace Engineering</b> and an incoming Ph.D. student at <b>Stanford University, Department of Aeronautics and Astronautics</b>. 
 
 I am also a recipient of a full-ride scholarship from [Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/) since 2020, which will be continued until the academic year 2027-2028. 
 
