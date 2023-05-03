@@ -11,7 +11,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 <h2>Papers in Preparation</h2>
 
-1. <b>Takubo, Y.</b>, and Kanazaki, M., "Robust Constrained Multi-objective Optimal Control based on Evolutionary Algorithm and Polynomial Chaos with Application to Supersonic Transport Landing," Aerospace Science and Technology (Under Review). 
+1. <b>Takubo, Y.</b>, and Kanazaki, M., "Robust Constrained Multi-objective Optimal Control based on Evolutionary Algorithm and Polynomial Chaos with Application to Supersonic Transport Landing," Journal of Aircraft (Under Review). 
 
 
 <h2>Journal Articles</h2>
