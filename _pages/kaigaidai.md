@@ -10,7 +10,7 @@ nav_order: 5
 大学入学以後、海外大学/海外大学院の進学や近況報告をさせて頂く機会が多くありました。
 作成した資料を一部以下にまとめています。
 
-### 動画 / 講演 / Podcast
+#### 動画 / 講演 / Podcast
 
 [TELSTAR RADIO #27:田久保勇志](https://open.spotify.com/episode/3KSLK5H8kPKTUf7JSc4sh7?si=59H0W9AtRZC0RTnHDCvQZw) (Spotify/Apple, 2023年6月)
 
@@ -22,11 +22,11 @@ nav_order: 5
 
  [海外大留学体験記](https://www.youtube.com/watch?v=zuGBeI8DLiw) (YouTube, 2020年11月)
 
-- 学部2年生当時の、米国大学(特に航空宇宙工学)進学に関する体験を話しています。
+- 学部2年生当時の、米国大学(特に航空宇宙工学)進学に関する体験を話しています。特にアメリカでの航空宇宙産業に興味がある人に向けて、外国籍が参入する厳しさと、それをどのように考えるべきかをお話ししました。
 
 
 
-### 記事
+#### 記事
 
 [外国人学部生でもNASAで働けた話](https://note.com/rocket_science/n/n0442e537650b) (note記事, 2022年8月)
 
