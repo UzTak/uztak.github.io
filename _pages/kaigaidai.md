@@ -20,7 +20,11 @@ nav_order: 5
 
 - 大学院留学支援コミュニティXPLANEのpodcastに、大学院の進学先が決定した直後にゲスト出演させていただきました。他のゲストの方2人と、進学先の決め方や志望願書の書き方等についてお話ししています。
 
- [海外大留学体験記](https://www.youtube.com/watch?v=zuGBeI8DLiw) (YouTube, 2020年11月)
+[UJA論文賞 研究発表講演](https://www.youtube.com/watch?v=nYS1GnckVe0) (YouTube, 2022年4月)
+
+- 2022年のUJA(海外日本人研究者ネットワーク)論文賞において特別賞を受賞した際に、授賞式にて「不確定性を伴うミッション設計のための階層強化学習手法」に関しての発表を行いました。Takubo et al., "Hierarchical Reinforcement Learning Framework for Stochastic Spaceflight Campaign Design,” Journal of Spacecraft and Rockets (2022) に関しての日本語での発表になります。
+
+[海外大留学体験記](https://www.youtube.com/watch?v=zuGBeI8DLiw) (YouTube, 2020年11月)
 
 - 学部2年生当時の、米国大学(特に航空宇宙工学)進学に関する体験を話しています。特にアメリカでの航空宇宙産業に興味がある人に向けて、外国籍が参入する厳しさと、それをどのように考えるべきかをお話ししました。
 
