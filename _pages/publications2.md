@@ -13,7 +13,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 2. <b>Takubo, Y.</b>, and Kanazaki, M., "Robust Constrained Multi-objective Optimal Control based on Evolutionary Algorithm and Polynomial Chaos with Application to Supersonic Transport Landing," MDPI Aerospace (Under Review). 
 
-1. <b>Takubo, Y.</b>, Landau, D., and Brian, A. "Automated Tour Design in the Saturnian System," Celestial Dynamics and Computational Astronomy (submitted).
+1. <b>Takubo, Y.</b>, Landau, D., and Brian, A. "Automated Tour Design in the Saturnian System," Celestial Mechanics and Dynamical Astronomy (submitted).
 
 
 <h3>Journal Articles</h3>
