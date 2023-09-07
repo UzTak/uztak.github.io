@@ -9,17 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>North Ave NW</p>
-    <p>Atlanta, GA 30332</p>
+    #<p>North Ave NW</p>
+    #<p>Atlanta, GA 30332</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student at <b>Georgia Institute of Technology, School of Aerospace Engineering</b> and an incoming Ph.D. student at <b>Stanford University, Department of Aeronautics and Astronautics</b>. 
+I am a Ph.D. student at <b>Stanford University, Department of Aeronautics and Astronautics</b>. 
+I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/) since 2020.
 
-I am also a recipient of a full-ride scholarship from [Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/) since 2020, which will be continued until the academic year 2027-2028. 
+初めまして！スタンフォード大学 航空宇宙学科にて博士課程をしている田久保勇志です。
 
 My research interests include:
 
@@ -27,6 +28,10 @@ My research interests include:
 - Sequential decision-making (optimal control, reinforcement learning)
 - Optimization under uncertainty.
 
-I am currently working at [Georgia Tech Space System Optimization Group](https://ssog.ae.gatech.edu/) (advisor: Dr. Koki Ho), and [Georgia Tech Dynamics and Control Systems Laboratory](https://dcsl.gatech.edu/) (advisor: Dr. Panagiotis Tsiotras). I am a former visiting student researcher at <b>NASA Jet Propulsion Laboratory (Section 312A)</b> and <b>Tokyo Metropolitan University</b>.
+My past research has been conducted at: 
+- [Georgia Tech Space System Optimization Group](https://ssog.ae.gatech.edu/) (advisor: Dr. Koki Ho)
+- NASA Jet Propulsion Jaboratory, Section 312A (2022 Summer) & 392M (2023 Summer) 
+- [Georgia Tech Dynamics and Control Systems Laboratory](https://dcsl.gatech.edu/) (advisor: Dr. Panagiotis Tsiotras) 
+- Tokyo Metropolitan University (advisor: Dr. Masahiro Kanazaki) 
 
 
