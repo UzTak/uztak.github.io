@@ -49,3 +49,6 @@ nav_order: 5
 
 #### 技術系記事
 
+[制御を失っても安全性を担保する制御法「Passive Safety」](https://zenn.dev/takuya_fukatsu/articles/d578cb4838d32d) (2024年1月)
+
+[Covariance Steering: 不確定性の制御](https://zenn.dev/takuya_fukatsu/articles/d4a3d03191db83) (2023年12月)
