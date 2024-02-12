@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kaigaidai_jpn/
+permalink: /media/
 title: メディア / 執筆など
 description: 
 nav: true
