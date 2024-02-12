@@ -12,7 +12,7 @@ nav_order: 5
 
 [奏でる細胞 32-4: 特別企画「奏でる銀河細胞」](https://open.spotify.com/episode/3HQ0kTOej1rjzAD2F8piqx?si=8cced9327def4753) (Spotify, 2023年12月)
 
-- インディアナ州立大学医学部のタツさんと、宇宙ポッドキャスト「佐々木亮の宇宙ばなし」の亮さんとのコラボ回で、キャリア相談に乗ってもらいました。
+- インディアナ州立大学医学部のタツさんと、宇宙ポッドキャスト「[佐々木亮の宇宙ばなし](https://ryosasaki.net/)」の亮さんとのコラボ回で、キャリア相談に乗ってもらいました。
 
 [TELSTAR RADIO #27:田久保勇志](https://open.spotify.com/episode/3KSLK5H8kPKTUf7JSc4sh7?si=59H0W9AtRZC0RTnHDCvQZw) (Spotify/Apple, 2023年6月)
 
