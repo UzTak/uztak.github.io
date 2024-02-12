@@ -1,16 +1,18 @@
 ---
 layout: page
 permalink: /kaigaidai_jpn/
-title: 海外大受験
+title: メディア / 執筆など
 description: 
 nav: true
 nav_order: 5
 ---
 
-大学入学以後、海外大学/海外大学院の進学や近況報告をさせて頂く機会が多くありました。
-作成した資料を一部以下にまとめています。
 
 #### 動画 / 講演 / Podcast
+
+[奏でる細胞 32-4: 特別企画「奏でる銀河細胞」](https://open.spotify.com/episode/3HQ0kTOej1rjzAD2F8piqx?si=8cced9327def4753) (Spotify, 2023年12月)
+
+- インディアナ州立大学医学部のタツさんと、宇宙ポッドキャスト「佐々木亮の宇宙ばなし」の亮さんとのコラボ回で、キャリア相談に乗ってもらいました。
 
 [TELSTAR RADIO #27:田久保勇志](https://open.spotify.com/episode/3KSLK5H8kPKTUf7JSc4sh7?si=59H0W9AtRZC0RTnHDCvQZw) (Spotify/Apple, 2023年6月)
 
@@ -30,7 +32,7 @@ nav_order: 5
 
 
 
-#### 記事
+#### 記事(体験談)
 
 [外国人学部生でもNASAで働けた話](https://note.com/rocket_science/n/n0442e537650b) (note記事, 2022年8月)
 
@@ -43,3 +45,7 @@ nav_order: 5
 [江副記念リクルート財団: 奨学生活動レポート](https://www.recruit-foundation.org/activity_report/takubo/) (2022年9月)
 
 - 2020年から支援を頂いている江副記念リクルート財団のウェブサイトにて、近況報告をさせていただきました。大学生活の日常や、今後の研究ビジョンについて書きました。
+
+
+#### 技術系記事
+
