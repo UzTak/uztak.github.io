@@ -22,13 +22,18 @@ I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit F
 
 初めまして！スタンフォード大学 航空宇宙学科博士課程1年の田久保勇志です。
 
-My currente research interests include spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, proximity operations, and docking (PROD)).
+My currente research interests include spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)).
+
+Research Fields:
+- Control and Autonomy
+- Optimization 
+- Astrodynamics 
 
 Past Research Topics:
 - Space Logistics (operations research in space) with Hierarchical Reinforcement Learning / Multidisciplinary Design Optimization (MDO)
-- Low-energy transfer in the Sun-Earth-Moon four-body system
+- Low-energy Transfer in the Sun-Earth-Moon four-body system 
 - Tour trajectory design in the Multi-Moon System (Saturn & Jupiter)
-- Robust guidance of Supersonic Transport 
+- Robust guidance of Supersonic Transport (SST) 
 - Optimal control in the probability moment space / Covariance Steering 
 
 
