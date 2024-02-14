@@ -14,7 +14,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 <h3>Journal Articles</h3>
 
-5. <b>Takubo, Y.</b>, Landau, D., and Brian, A. "Automated Tour Design in the Saturnian System," Celestial Mechanics and Dynamical Astronomy (accepted).
+5. <b>Takubo, Y.</b>, Landau, D., and Brian, A. <a href="https://link.springer.com/article/10.1007/s10569-023-10179-8">"Automated Tour Design in the Saturnian System,"<a/> Celestial Mechanics and Dynamical Astronomy, Vol. 136, article 8, 2024.
 
 4. <b>Takubo, Y.</b>, and Kanazaki, M., <a href="https://doi.org/10.3390/aerospace10110929"> "Robust Constrained Multi-objective Optimal Guidance of Supersonic Transport Landing based on Evolutionary Algorithm and Polynomial Chaos," <a/> MDPI Aerospace, 10(11), pp.929, 2023. 
 
