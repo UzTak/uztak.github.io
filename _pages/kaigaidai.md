@@ -1,14 +1,28 @@
 ---
 layout: page
 permalink: /media/
-title: メディア / 執筆など
+title: Media
 description: 
 nav: true
 nav_order: 5
 ---
 
 
-#### 動画 / 講演 / Podcast
+### English
+
+#### Articles
+
+[How To Work at NASA JPL as an International Student?](https://www.theoverview.org/p/how-to-work-at-nasa-jpl-as-an-international), The Overview, April 24, 2024. 
+
+#### Video 
+
+[Automated Tour Design in the Saturnian System](https://cassyni.com/events/TWqet9owjHLEXboc17ZBb3), Celestial Mechanics and Dynamical Astronomy Seminar Series, May 31, 2024. 
+
+
+
+### 日本語 / Japanese 
+
+#### 動画 / Podcast
 
 [奏でる細胞 32-4: 特別企画「奏でる銀河細胞」](https://open.spotify.com/episode/3HQ0kTOej1rjzAD2F8piqx?si=8cced9327def4753) (Spotify, 2023年12月)
 
@@ -50,6 +64,9 @@ nav_order: 5
 
 #### 記事(技術系)
 
+[Covariance Steering Part 2: MPCと自動運転へ](https://zenn.dev/takuya_fukatsu/articles/9796e0e8e18b6f) (2024年3月)
+
 [制御を失っても安全性を担保する制御法「Passive Safety」](https://zenn.dev/takuya_fukatsu/articles/d578cb4838d32d) (2024年1月)
 
 [Covariance Steering: 不確定性の制御](https://zenn.dev/takuya_fukatsu/articles/d4a3d03191db83) (2023年12月)
+
