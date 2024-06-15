@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-### English
+### **English**
 
 #### Articles
 
@@ -20,7 +20,7 @@ nav_order: 5
 
 
 
-### 日本語 / Japanese 
+### **日本語 / Japanese** 
 
 #### 動画 / Podcast
 
