@@ -22,7 +22,7 @@ I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit F
 
 初めまして！スタンフォード大学 航空宇宙学科博士課程1年の田久保勇志です。
 
-My currente research interests include spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)).
+My current research interests include spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)). 
 
 Research Fields:
 - Control and Autonomy
