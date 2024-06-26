@@ -22,7 +22,12 @@ I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit F
 
 初めまして！スタンフォード大学 航空宇宙学科博士課程1年の田久保勇志です。
 
-My current research interests include spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)). 
+The research question I want to answer is: <b>How to make an optimal decision-making in a complex system?</b> 
+Particularly, I am interested in two aspects of ``complexity":
+- <b>Uncertainty</b>: an environment is always stochastic and uncertain. How to perform optimization under uncertainty? 
+- <b>Multi-objective space</b>: every decision-making problems have competing objectives (sometimes hidden). Can we see the trade-space of multi-objective solution space to make a better decision? 
+
+With my passion in space, I am currently working on spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)). 
 
 Research Fields:
 - Control and Autonomy
@@ -30,10 +35,11 @@ Research Fields:
 - Astrodynamics 
 
 Past Research Topics:
-- Space Logistics (operations research in space) with Hierarchical Reinforcement Learning / Multidisciplinary Design Optimization (MDO)
-- Low-energy Transfer in the Sun-Earth-Moon four-body system 
-- Tour trajectory design in the Multi-Moon System (Saturn & Jupiter)
-- Robust guidance of Supersonic Transport (SST) 
+- Space Logistics (operations research in space) with Hierarchical Reinforcement Learning 
+- Co-design of spacecraft and space logistics via Multidisciplinary Design Optimization (MDO)
+- Trade-space analysis of Low-energy Transfer in the Sun-Earth-Moon four-body system with low-thrust propulsion
+- Multi-objective Moon Tour design in the Multi-Moon System (Saturn & Jupiter)
+- Robust multi-objective guidance of Supersonic Transport (SST) under wind uncertainty
 - Optimal control in the probability moment space / Covariance Steering 
 
 
