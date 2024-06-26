@@ -25,7 +25,7 @@ I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit F
 The research question I want to answer is: <b>How to make an optimal decision-making in a complex system?</b> 
 Particularly, I am interested in two aspects of ``complexity":
 - <b>Uncertainty</b>: an environment is always stochastic and uncertain. How to perform optimization under uncertainty? 
-- <b>Multi-objective space</b>: every decision-making problems have competing objectives (sometimes hidden). Can we see the trade-space of multi-objective solution space to make a better decision? 
+- <b>Multi-objective space</b>: every decision-making problems has competing objectives (which are sometimes hidden). Can we seek the trade-space of multi-objective solution space to make a better decision? 
 
 With my passion in space, I am currently working on spacecraft autonomy & intelligence in the context of distributed space systems (formation flight, rendezvous, proximity operations, and docking (RPOD)). 
 
