@@ -18,7 +18,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 4. <b>Takubo, Y.</b>, and Kanazaki, M., "<a href="https://doi.org/10.3390/aerospace10110929"> Robust Constrained Multi-objective Optimal Guidance of Supersonic Transport Landing based on Evolutionary Algorithm and Polynomial Chaos <a/>," MDPI Aerospace, 10(11), pp.929, 2023. 
 
-3. Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., "<a href="https://doi.org/10.1080/12265934.2023.2189156">The megaregion–forms, functions, and potential? A literature review and proposal for advancing research<a/>," International Journal of Urban Sciences, 2023.
+3. Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., "<a href="https://doi.org/10.1080/12265934.2023.2189156">The megaregion–forms, functions, and potential? A literature review and proposal for advancing research<a/>," International Journal of Urban Sciences, 28(1), 82–104, 2023.
 
 2. Isaji, M., <b>Takubo, Y.</b>, and Ho, K., "<a href="https://arc.aiaa.org/doi/abs/10.2514/1.A35284?journalCode=jsr">Multidisciplinary Design Optimization Approach to Integrated Space Mission Planning and Spacecraft Design<a/>," Journal of Spacecraft and Rockets, 59(5), pp. 1660-1670, 2022. 
 
