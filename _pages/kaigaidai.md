@@ -48,6 +48,10 @@ nav_order: 5
 
 #### 記事(体験談)
 
+[江副記念リクルート財団: 学術部門奨学生インタビュー](https://www.recruit-foundation.org/news/posts-news-25942/) (2024年8月)
+
+- 大学学部生活から大学院に至るまで、研究の話などをインタビュー記事にまとめて頂きました。
+
 [外国人学部生でもNASAで働けた話](https://note.com/rocket_science/n/n0442e537650b) (note記事, 2022年8月)
 
 - NASA ジェット推進研究所 (Jet Propulsion Laboratory, JPL)でのインターンの機会を得た経緯について書きました。
