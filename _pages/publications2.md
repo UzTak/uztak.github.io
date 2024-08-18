@@ -27,7 +27,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 <h3>Conference Papers</h3>
 
-7. <b>Takubo, Y.</b>, and S. D'Amico., "Multiplicative Approach to Constrained Stochastic Attitude Control with Application to Rendezvous and Proximity Operations", 2024 AAS/AIAA Astrodynamics Specialist Conference, Broomfield, CO, Aug. 2024. 
+7. <b>Takubo, Y.</b>, and S. D'Amico., "<a href=https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/takubo_damico_asc2024.pdf>Multiplicative Approach to Constrained Stochastic Attitude Control with Application to Rendezvous and Proximity Operations<a/>", 2024 AAS/AIAA Astrodynamics Specialist Conference, Broomfield, CO, Aug. 2024. 
 
 6. <b>Takubo, Y.</b>, Shimane, Y., and Ho, K., "<a href="https://www.researchgate.net/profile/Yuji-Takubo/publication/373687006_Optimization_of_Earth-Moon_Low-Thrust-Enhanced_Low-Energy_Transfer/links/64f7f6dc3a0697353daffbef/Optimization-of-Earth-Moon-Low-Thrust-Enhanced-Low-Energy-Transfer.pdf">Optimization of Earth-Moon Low-Thrust-Enhanced Low-Energy Transfer<a/>," 2023 AAS/AIAA Aerodynamics Specialist Conference, Big Sky, MT, Aug. 2023.
 
