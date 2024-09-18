@@ -16,7 +16,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 5. <b>Takubo, Y.</b>, Landau, D., and Brian, A. "<a href="https://link.springer.com/article/10.1007/s10569-023-10179-8">Automated Tour Design in the Saturnian System<a/>," Celestial Mechanics and Dynamical Astronomy, Vol. 136, article 8, 2024.
 
-4. <b>Takubo, Y.</b>, and Kanazaki, M., "<a href="https://doi.org/10.3390/aerospace10110929"> Robust Constrained Multi-objective Optimal Guidance of Supersonic Transport Landing based on Evolutionary Algorithm and Polynomial Chaos <a/>," MDPI Aerospace, 10(11), pp.929, 2023. 
+4. <b>Takubo, Y.</b>, and Kanazaki, M., "<a href="https://doi.org/10.3390/aerospace10110929">Robust Constrained Multi-objective Optimal Guidance of Supersonic Transport Landing based on Evolutionary Algorithm and Polynomial Chaos <a/>," MDPI Aerospace, 10(11), pp.929, 2023. 
 
 3. Woodall, B., Borowitz, M., Watkins, K., Costa, M., Howard, A., Kemerait, P., Lee, M., Rolls, G., <b>Takubo, Y.</b>, Titshaw, R. and Winstead, M., "<a href="https://doi.org/10.1080/12265934.2023.2189156">The megaregion–forms, functions, and potential? A literature review and proposal for advancing research<a/>," International Journal of Urban Sciences, 28(1), 82–104, 2023.
 
