@@ -27,7 +27,7 @@ Please also refer to my [Google Scholar](https://scholar.google.com/citations?us
 
 <h3>Conference Papers</h3>
 
-8. <b>Takubo, Y.</b>*, Guffanti, T.*, Gammelli, D.*, Pavone, M., and S. D'Amico., "Towards Robust Spacecraft Trajectory Optimization via Transformers," IEEE Aerospace Conference 2025 (submitted). (*Equal Contribution)
+8. <b>Takubo, Y.</b>*, Guffanti, T.*, Gammelli, D.*, Pavone, M., and D'Amico, S., "Towards Robust Spacecraft Trajectory Optimization via Transformers," IEEE Aerospace Conference 2025 (submitted). (*Equal Contribution)
 
 7. <b>Takubo, Y.</b>, and S. D'Amico., "<a href="https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/takubo_damico_asc2024.pdf">Multiplicative Approach to Constrained Stochastic Attitude Control with Application to Rendezvous and Proximity Operations<a/>", 2024 AAS/AIAA Astrodynamics Specialist Conference, Broomfield, CO, Aug. 2024. 
 
