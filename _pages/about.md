@@ -20,7 +20,7 @@ I am a Ph.D. student at <b>Stanford University, Department of Aeronautics and As
 Currently I am working at [Stanford Space Rendezvous Laboratory](https://slab.stanford.edu/), advised by Dr. Simone D'Amico. 
 I have also been receiving a full-ride scholarship from [Ezoe Memorial Recruit Foundation](https://www.recruit-foundation.org/) since 2020.
 
-初めまして！スタンフォード大学 航空宇宙学科博士課程1年の田久保勇志です。
+初めまして！スタンフォード大学 航空宇宙学科博士課程の田久保勇志です。
 
 The research question I want to answer is: <b>How to make an optimal decision-making in a complex system?</b> 
 Particularly, I am interested in two aspects of ``complexity":
