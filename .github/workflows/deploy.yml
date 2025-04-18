@@ -25,7 +25,7 @@ jobs:
     - name: Update Bundler
       run: gem update bundler
     - name: Install Specific uri Version
-      run: gem install uri -v '1.0.2'
+      run: gem install uri -v '1.0.3'
     - name: Install deps
       run: |
         npm install -g mermaid.cli
